@@ -1,0 +1,21 @@
+.slider-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .slider-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .slider-buttons {
+    margin-top: 10px;
+  }
+  
+  .slider-buttons button {
+    margin: 0 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
