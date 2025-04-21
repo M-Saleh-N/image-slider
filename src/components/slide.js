@@ -13,5 +13,15 @@ const images = [
 ];
 
 export default function SimpleSlider() {
-    
+    const [current, setCurrent] = useState(0);
+    const next = () => setCurrent((current + 1) % images.length);
+    const prev = () => setCurrent((current - 1 + images.length) % images.length);
+  
+    return (
+        <div className="slider-container">
+          <img src={images[current]} alt="slide" className="slider-image" />
+          <div className="slider-buttons">
+          </div>
+        </div>
+      );
 }
