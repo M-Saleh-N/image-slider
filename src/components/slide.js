@@ -12,4 +12,6 @@ const images = [
 
 ];
 
-
+export default function SimpleSlider() {
+    
+}
