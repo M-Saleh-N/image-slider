@@ -21,6 +21,8 @@ export default function SimpleSlider() {
         <div className="slider-container">
           <img src={images[current]} alt="slide" className="slider-image" />
           <div className="slider-buttons">
+            <button onClick={prev}>⟨ Prev</button>
+            <button onClick={next}>Next ⟩</button>
           </div>
         </div>
       );
