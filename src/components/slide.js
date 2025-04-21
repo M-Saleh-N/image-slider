@@ -18,11 +18,13 @@ export default function SimpleSlider() {
     const prev = () => setCurrent((current - 1 + images.length) % images.length);
   
     return (
+        <div className="slider-wrapper">
         <div className="slider-container">
           <img src={images[current]} alt="slide" className="slider-image" />
           <div className="slider-buttons">
             <button onClick={prev}>⟨ Prev</button>
             <button onClick={next}>Next ⟩</button>
+            </div>
           </div>
         </div>
       );
