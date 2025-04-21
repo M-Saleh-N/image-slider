@@ -8,7 +8,7 @@ const images = [
     "https://velvetescape.com/wp-content/uploads/2009/05/FE5350FA-175D-46E6-B872-E0003220853B-640x640.jpeg",
     "https://www.travelandleisure.com/thmb/9EVIxtEEdCN3BQ7G9PK2BD0P4Rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-azores-portugal-WRLDSNST1122-5b47f58cb5ed428aa87ea8eb66c9f2ed.jpg",
     "https://berqwp-cdn.sfo3.cdn.digitaloceanspaces.com/cache/be-lavie.com/wp-content/uploads/2018/12/IMG_0857-1-1-1024x768-jpeg.webp",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgGmKqyMF9VvQJnhy0U6B4LJhgWKsx-1MHw&s"
+    "https://i.pinimg.com/originals/7f/bc/be/7fbcbe166e622dc18b77eb6299292dca.jpg"
 
 ];
 
