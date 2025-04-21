@@ -1,0 +1,3 @@
+import React, { useState } from "react";
+import './slide.css'
+
